@@ -29,5 +29,6 @@ int
 main(void)
 {
   printf("Hello ARM World!" "\n");
+  printf("Thank you!" "\n");
   return 0;
 }
