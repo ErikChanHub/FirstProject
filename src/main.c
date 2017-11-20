@@ -31,5 +31,6 @@ main(void)
   printf("Hello ARM World!" "\n");
   printf("Thank you!" "\n");
   printf("Welcome!" "\n");
+  printf("Fine!" "\n");
   return 0;
 }
