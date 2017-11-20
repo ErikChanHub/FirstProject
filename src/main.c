@@ -32,5 +32,6 @@ main(void)
   printf("Thank you!" "\n");
   printf("Welcome!" "\n");
   printf("Fine!" "\n");
+  printf("Relax" "\n");
   return 0;
 }
