@@ -33,6 +33,6 @@ main(void)
   printf("Welcome!" "\n");
   printf("Fine!" "\n");
   printf("Relax" "\n");
-  printf("Relax123" "\n");
+  printf("Relax123456" "\n");
   return 0;
 }
